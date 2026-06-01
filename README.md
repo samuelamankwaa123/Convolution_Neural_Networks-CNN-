@@ -1,7 +1,7 @@
 # CNN Workflow 
 
 ## Overview
-This project implements a Convolutional Neural Network (CNN) workflow for image classification as part of Homework 1.
+This project implements a Convolutional Neural Network (CNN) workflow for image classification.
 
 The notebook demonstrates the full deep learning pipeline from loading the dataset through preprocessing, model building, training, evaluation, and performance analysis.
 
