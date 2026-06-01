@@ -1,4 +1,4 @@
-# CNN Workflow – Homework 1
+# CNN Workflow 
 
 ## Overview
 This project implements a Convolutional Neural Network (CNN) workflow for image classification as part of Homework 1.
